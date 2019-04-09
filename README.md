@@ -10,6 +10,7 @@ All notes are organised in different directories.
 
 - [:art: Development](development)
 - [:notebook: Learning](learning)
+- [:white_check_mark: Instructions](instructions)
 
 ## Projects
 
